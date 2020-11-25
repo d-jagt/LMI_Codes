@@ -3,6 +3,7 @@
 %   Fridman E. 2014. Introduction to Time-Delay Systems, Analysis and Control. Springer. ISBN: 978-3-319-09392-5.
 % Concerns a simple example of a system x(k+1) = A x(k) + A1 x(k-tau_k)
 % tau_k can vary in time, assuming integer values in [0,h] for some nonnegative integer h
+% Example relies on YALMIP with solver Mosek, though alternative solver can be implemented
 
 % Define example system
 A = [0.8, 0 ; 0, 0.97];
