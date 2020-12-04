@@ -1,4 +1,4 @@
-%% Bound on L2 gain for Continuous-Time TDS with Slowly-Varying Delay
+%% Bound on L2 gain for Continuous-Time TDS (with Slowly-Varying Delay)
 % Example implementation of LMI from page 151 of:
 %   Fridman E. 2014. Introduction to Time-Delay Systems, Analysis and Control. Springer. ISBN: 978-3-319-09392-5.
 % Concerns a simple example of a system:
