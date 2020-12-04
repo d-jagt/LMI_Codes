@@ -1,4 +1,4 @@
-%% L2-Optimal Full-State-Feedback for Continuous-Time TDS with Slowly-Varying Delay
+%% L2-Optimal Full-State-Feedback for Continuous-Time TDS (with Slowly-Varying Delay)
 % Example implementation of LMI from page 211 of:
 %   Fridman E. 2014. Introduction to Time-Delay Systems, Analysis and Control. Springer. ISBN: 978-3-319-09392-5.
 % Concerns a simple example of a system:
